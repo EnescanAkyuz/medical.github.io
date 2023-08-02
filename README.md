@@ -1,1 +1,1 @@
-Sağlık sektörü için yaptığım bir site
+Sağlık sektörü için bir site
